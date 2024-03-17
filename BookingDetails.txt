@@ -1,0 +1,14 @@
+Name: Akash
+Room Type: Standard Room
+Number of Days: 5
+Selected Services: Restaurant, Bar, Pool
+Room Cost: $25000.0
+Total Amount: $85000.0
+
+Name: Akash
+Room Type: Standard Room
+Number of Days: 5
+Selected Services: Restaurant, Bar, Pool
+Room Cost: $25000.0
+Total Amount: $85000.0
+
